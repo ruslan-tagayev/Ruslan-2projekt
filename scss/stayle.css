@@ -1,0 +1,870 @@
+.card {
+  width: 100%;
+  height: 70vh;
+}
+.card .card_con {
+  padding-left: 100px;
+}
+.card .card_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card_butto button {
+  width: 100%;
+  border: none;
+  background-color: rgba(35, 37, 54, 0.1215686275);
+}
+.card .card-1 .card-1_con {
+  padding-left: 100px;
+}
+.card .card-1 .card-1_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-1 .card-1_con-1 {
+  margin-left: 100px;
+  width: 1282px;
+  height: 211px;
+  background-color: #FFF5D8;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.card .card-1 .card-1_con-1 .card-1_con-1-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-1 .card-1_con-1 .card-1_con-1-1 p {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #111218;
+}
+.card .card-1 .card-1_con-1 .card-1_con-1-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-1 .card-1_con-1 .card-1_con-1-2 h5 {
+  font-family: Sen;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 {
+  display: flex;
+  align-items: first baseline;
+  justify-content: space-around;
+  gap: 300px;
+}
+.card .card-2 .card-2_R {
+  padding-left: 0px;
+}
+.card .card-2 .card-2_R h1 {
+  font-family: Sen;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_R p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #AFB0B9;
+}
+.card .card-2 .card-2_R h2 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_R h3 {
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_R h4 {
+  font-family: Sen;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_R h5 {
+  font-family: Sen;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_R h6 {
+  font-family: Sen;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_L .card-2-1 {
+  text-align: left;
+}
+.card .card-2 .card-2_L .card-2-1 .card-2-1-1 {
+  transform: translateX(-90px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card .card-2 .card-2_L .card-2-1 .card-2-1-1 h1 {
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-2 .card-2_L .card-2-1 .card-2-1-1 h6 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #AFB0B9;
+}
+.card .card-3 {
+  padding-left: 100px;
+}
+.card .card-3 .card-3_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-4 .card-4_con {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 0px;
+}
+.card .card-4 .card-4_con h2 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-4 .card-4_butt {
+  display: flex;
+  align-items: first baseline;
+  justify-content: space-around;
+}
+.card .card-4 .card-4_butt .card-4_R button {
+  width: 204px;
+  height: 56px;
+  border: none;
+  background-color: #FFD050;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-4 .card-4_butt .card-4_R button:hover {
+  width: 204px;
+  height: 56px;
+  border: none;
+  background-color: #EDC14A;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-4 .card-4_butt .card-4_R p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #AFB0B9;
+}
+.card .card-5 {
+  margin-left: 100px;
+  width: 1300px;
+  height: 80px;
+  background-color: #232536;
+}
+.card .card-5 .card-5_con {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 500px;
+}
+.card .card-5 .card-5_con .card-5_con-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-5 .card-5_con .card-5_con-2 h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-5 .card-5_con .card-5_con-2 button {
+  margin-top: 10px;
+  width: 179px;
+  height: 56px;
+  border: none;
+  border-radius: 0px;
+  background-color: #FFFFFF;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-6 {
+  margin-top: 60px;
+  margin-left: 100px;
+  width: 1300px;
+  height: 560px;
+  background-color: #232536;
+}
+.card .card-6 .card-6_con {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 400px;
+}
+.card .card-6 .card-6_con .card-6_con-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-6 .card-6_con .card-6_con-2 h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-6 .card-6_con_1 {
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 1100px;
+  height: 256px;
+  border: 1px solid #4C4C4C;
+  background-color: #3c3e4f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+.card .card-6 .card-6_con_1 .card-6_con_1-1 h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-6 .card-6_con_1 .card-6_con_1-2 {
+  gap: 20px;
+}
+.card .card-6 .card-6_con_1 .card-6_con_1-2 input {
+  padding-left: 10px;
+  width: 323px;
+  height: 56px;
+  background-color: #3c3e4f;
+  border: 1px solid #4C4C4C;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-6 .card-6_con_1 .card-6_con_1-2 button {
+  width: 179px;
+  height: 56px;
+  background: #FFD050;
+  border: none;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-6 .card-6_con_2 {
+  padding: 50px 100px 100px 100px;
+  padding-left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card .card-6 .card-6_con_2 .card-6_con_2-1 p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-7 {
+  margin-top: 100px;
+  width: 100%;
+  height: 625vh;
+}
+.card .card-7 .card-8 {
+  width: 100%;
+  height: 10vh;
+  background-color: #232536;
+}
+.card .card-7 .card-8 .card-8_con {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 500px;
+}
+.card .card-7 .card-8 .card-8_con .card-8_con-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-7 .card-8 .card-8_con .card-8_con-2 h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-7 .card-8 .card-8_con .card-8_con-2 button {
+  margin-top: 10px;
+  width: 179px;
+  height: 56px;
+  border: none;
+  border-radius: 0px;
+  background-color: #FFFFFF;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-9 {
+  width: 100%;
+  height: 70vh;
+  background-color: #F4F0F8;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.card .card-7 .card-9 .card-9_con h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-9 .card-9_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-9 .card-9_con h5 {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #4C4C4C;
+}
+.card .card-7 .card-9 .card-9_con p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-9 .card-9_con button {
+  width: 204px;
+  height: 56px;
+  background-color: #FFD050;
+  border-radius: 0px;
+  border: none;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-10 {
+  width: 100%;
+  height: 335vh;
+}
+.card .card-7 .card-10 .card-10_con {
+  padding-left: 100px;
+}
+.card .card-7 .card-10 .card-10_con h1 {
+  font-family: Sen;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-10 .card-10_con button {
+  width: 1282px;
+  height: 0px;
+  background-color: #6D6E76;
+  border-radius: 0px;
+  border: none;
+}
+.card .card-7 .card-10 .card-10_content {
+  padding: 0px 100px 0px 100px;
+}
+.card .card-7 .card-10 .card-10_content .card-10_content-1 {
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+.card .card-7 .card-10 .card-10_content .card-10_content-1 .card-10_content_con h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #592EA9;
+}
+.card .card-7 .card-10 .card-10_content .card-10_content-1 .card-10_content_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-10 .card-10_content .card-10_content-1 .card-10_content_con p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-10 .card-10_con-1 {
+  padding-top: 50px;
+  padding-left: 700px;
+}
+.card .card-7 .card-11 {
+  width: 100%;
+  height: 60vh;
+}
+.card .card-7 .card-11 .card-11_con {
+  padding-left: 100px;
+}
+.card .card-7 .card-11 .card-11_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-11 .card-11_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1 {
+  padding-top: 20px;
+  padding-left: 40px;
+  width: 296px;
+  height: 228px;
+  border: 1px solid #6D6E76;
+  background-color: #FFFFFF;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1 h1 {
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1 p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1:hover {
+  padding-top: 20px;
+  padding-left: 40px;
+  width: 296px;
+  height: 228px;
+  border: 1px solid #FFD050;
+  background-color: #FFD050;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1:hover h1 {
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-11 .card-11_box .card-11_box-1:hover p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-12 {
+  width: 100%;
+  height: 50vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.card .card-7 .card-12 .card-12_con h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-12 .card-12_con p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-12 .card-12_con button {
+  width: 174px;
+  height: 56px;
+  background: #FFD050;
+  border: none;
+  border-radius: 0px;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-13 {
+  margin-top: 60px;
+  margin-left: 0px;
+  width: 100%;
+  height: 80vh;
+  background-color: #232536;
+}
+.card .card-7 .card-13 .card-13_con {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 400px;
+}
+.card .card-7 .card-13 .card-13_con .card-13_con-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.card .card-7 .card-13 .card-13_con .card-13_con-2 h2 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-7 .card-13 .card-13_con_1 {
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 1100px;
+  height: 256px;
+  border: 1px solid #4C4C4C;
+  background-color: #3c3e4f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+.card .card-7 .card-13 .card-13_con_1 .card-13_con_1-1 h1 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+.card .card-7 .card-13 .card-13_con_1 .card-13_con_1-2 {
+  gap: 20px;
+}
+.card .card-7 .card-13 .card-13_con_1 .card-13_con_1-2 input {
+  padding-left: 10px;
+  width: 323px;
+  height: 56px;
+  background-color: #3c3e4f;
+  border: 1px solid #4C4C4C;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #6D6E76;
+}
+.card .card-7 .card-13 .card-13_con_1 .card-13_con_1-2 button {
+  width: 179px;
+  height: 56px;
+  background: #FFD050;
+  border: none;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #232536;
+}
+.card .card-7 .card-13 .card-13_con_2 {
+  padding: 50px 100px 100px 100px;
+  padding-left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card .card-7 .card-13 .card-13_con_2 .card-13_con_2-1 p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}/*# sourceMappingURL=stayle.css.map */
